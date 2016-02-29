@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiipapiniist00statgoog_0019.png"; bbox 0 0 2700 3900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 266 1190 1106 1477">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 266 1190 1106 1477">
+     <span class='ocr_line' id='line_1_1' title="bbox 266 1190 1106 1247; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 266 1190 1106 1247; x_wconf 41' lang='lat' dir='ltr'><strong>&amp;wama-wama&amp;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 371 1403 1005 1477; baseline -0.005 -2"><span class='ocrx_word' id='word_1_2' title='bbox 371 1417 404 1476; x_wconf 84' lang='grc' dir='ltr'><strong>Ρ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 453 1416 719 1477; x_wconf 77' lang='grc' dir='ltr'>ΡΑΡΙΝΙΙ</span> <span class='ocrx_word' id='word_1_4' title='bbox 766 1403 1005 1474; x_wconf 76' lang='grc' dir='ltr'>εΤΑΉΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 301 1664 1074 1757">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 301 1664 1074 1757">
+     <span class='ocr_line' id='line_1_3' title="bbox 301 1664 1074 1757; baseline -0.003 -9"><span class='ocrx_word' id='word_1_5' title='bbox 301 1664 1074 1757; x_wconf 80' lang='lat' dir='ltr'>SYLVARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 344 1947 965 2033">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 344 1947 965 2033">
+     <span class='ocr_line' id='line_1_4' title="bbox 344 1947 965 2033; baseline 0.013 -29"><span class='ocrx_word' id='word_1_6' title='bbox 344 1949 590 2010; x_wconf 73' lang='lat' dir='ltr'>‚LIBRI</span> <span class='ocrx_word' id='word_1_7' title='bbox 641 1947 965 2033; x_wconf 69' lang='lat' dir='ltr'>QU1NQUE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 264 2196 1103 2255">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 264 2196 1103 2255">
+     <span class='ocr_line' id='line_1_5' title="bbox 264 2196 1103 2255; baseline -0.005 -2"><span class='ocrx_word' id='word_1_8' title='bbox 264 2196 1103 2255; x_wconf 49' lang='lat' dir='ltr'><strong>*⁴444*ka</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1354 3900">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1354 3900">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1354 3900; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1354 3900; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
